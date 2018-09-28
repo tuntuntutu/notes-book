@@ -26,8 +26,4 @@
 * node
  - [jade](node/jade.md)
  - [mongodb安装配置](node/mongodb安装配置.md)
- - [好用的插件](node/好用的node插件.md)
-* vue
- - [vuex初识解惑](vue/vuex初识解惑.md)
-* 兼容性
- - [fixed元素唤起键盘](兼容性/fixed元素唤起键盘.md)
+ - [好用的插件](node/好用的插件.md)

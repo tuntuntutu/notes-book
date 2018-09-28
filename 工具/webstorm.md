@@ -8,10 +8,11 @@ JetBrain常见软件：webstorm，phpstorm，Intellij Idea等
 快捷键过渡，能够检测用户行为的频繁程度，询问是否生成快捷键或者提示已有的快捷键
 
 #### Material Theme UI ：
+可以和 Atom、vscode的配色 一样漂亮
 
- [Material Theme UI](https://github.com/mekwall/obsidian-color-schem  )
+ [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
-![image](https://note.youdao.com/yws/res/2943///note.youdao.com/src/WEBRESOURCE00d686a7e61e47b979bd032c592ffc1f)
+![演示图片](https://plugins.jetbrains.com/files/8006/screenshot_17528.png)
 
 #### liveEdit：
 
@@ -45,7 +46,6 @@ editor-> code Style -> CSS
 #### 内存实时显示
 appearance->appearance->勾上show memory indicator
 
-
 #### 忽略文件或文件夹
 Editor->File Types->ignore files and folders
 
@@ -66,6 +66,7 @@ setting——Languages & frameworks——javascript
 选择ECMAScript6
 
 #### 内存设置
+
 http://blog.csdn.net/lablenet/article/details/51149283
 
 > tomcat有时会报内存溢出，解决方法是在tomcat配置面板中的VM options中加入：
@@ -87,8 +88,8 @@ npm install autoprefixer -g
 npm install postcss-cli -g
 ```
 
- 3. 打开Webstorm设置，Preferences -> Tools -> External Tools ;配置如图
-![enter description here][1]
+ 3. 打开Webstorm设置，Preferences -> Tools -> External Tools
+
 
 ```
 //输入框内容
@@ -124,12 +125,6 @@ setting->Appearance & Behavior -> System Setting -> Use 'safe write'(save change
 
 > 使用webpack的watch时如果开启会导致无法热替换
 
-## 个性化配置迁移
-
-#### win系统
-在C:\Users\hzqiushengqiang（用户名）\.IntelliJIdea14(idea版本号)\config
-
-config为个性化配置文件存储位置，复制覆盖新电脑的相同位置即可
 
 ## 快捷键设置
 
@@ -138,14 +133,3 @@ config为个性化配置文件存储位置，复制覆盖新电脑的相同位�
 - duplicate lines or block: ctrl + D
 - extend selection：  ctrl + W
 - fix eslint problems： command + shift + O
-
-# 传送门：
-
-
-[官网速成](http://blogs.jetbrains.com/idea/tag/30-days-guide)
-
-[IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
-
-[IntelliJ IDEA 常用设置讲解](https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/settings-introduce-1.md)
-
-  [1]: http://note.youdao.com/yws/api/group/12651257/noteresource/AAD03315703744D08F4C642D0B76A1CB/version/1296?method=get-resource

@@ -1,3 +1,4 @@
 {
-  "output": "./docs"
+  "output": "./docs",
+  "extension": "_config.yml"
 }
